@@ -7,16 +7,14 @@
 > Dive into the fascinating world of neural signal processing! 🧬 
 > This repository showcases a comprehensive analysis of neural data and spike trains, demonstrating core data science concepts like the Sampling Theorem, Noise Reduction, and advanced Spike Train Analysis.
 
-**👩‍💻 Author:** Dana Sela
-
 ---
 
 ## 📊 Datasets
 
 We explore the hidden patterns within two primary datasets:
 
-* 🔬 **`Neural_data.csv`**: Continuous neural signals capturing Calcium imaging fluorescence changes (ΔF/F (%)). 
-* ⚡ **`spike_trains.csv`**: Binary spike train records tracking the firing activity of multiple neurons (Neurons A through E) across various experimental trials.
+* **`Neural_data.csv`**: Continuous neural signals capturing Calcium imaging fluorescence changes (ΔF/F (%)). 
+* **`spike_trains.csv`**: Binary spike train records tracking the firing activity of multiple neurons (Neurons A through E) across various experimental trials.
 
 ---
 
