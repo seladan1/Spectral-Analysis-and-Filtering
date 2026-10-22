@@ -77,6 +77,3 @@ Want to run this analysis on your own machine? Follow these simple steps:
    ```bash
    jupyter notebook
    ```
-
----
-*If you find this project interesting, feel free to ⭐ star the repository!*
